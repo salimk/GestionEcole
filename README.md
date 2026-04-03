@@ -1,8 +1,5 @@
 # Projet pédagogique Spring Boot – Système académique
-## Établissement
-**EMSI**
-## Niveau et Filière
-**4ème année** **IDSI**
+**4ème année - Filière IDSI -Ecole EMSI - 2026**
 
 ## Présentation générale
 Ce dépôt GitHub regroupe un projet pédagogique réalisé dans le cadre de l’enseignement du développement d’applications d’entreprise. Il sert de support global pour accompagner les étudiants dans la découverte progressive des concepts, outils et bonnes pratiques liés à la conception et à la réalisation d’une application basée sur l’écosystème Spring Boot.
