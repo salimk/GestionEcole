@@ -1,11 +1,6 @@
 # Projet pédagogique Spring Boot – Système académique
-
-## Enseignant 
-**Salim KHALIL**
-
 ## Établissement
 **EMSI**
-
 ## Niveau et Filière
 **4ème année** **IDSI**
 
@@ -35,5 +30,5 @@ L’objectif principal de ce dépôt est de servir de **support d’apprentissag
 ## Public concerné
 Ce projet est destiné aux étudiants de **4ème année – filière IDSI** à l’**EMSI**, dans le cadre de leur formation en développement logiciel et en conception d’applications d’entreprise.
 
-## Auteur
+## Auteur et Enseignant 
 **Salim KHALIL**
