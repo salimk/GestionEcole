@@ -66,3 +66,13 @@ public class Etudiant extends Personne {
     @Column(name = "moyenne_generale", columnDefinition = "DECIMAL(5,2) DEFAULT 0")
     private Double moyenneGenerale = 0.0;
 }
+
+
+
+
+
+
+
+
+
+
